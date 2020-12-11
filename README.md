@@ -9,3 +9,4 @@ pokrywa się ze znakiem podanym w przykładzie i zaimplementowałem kształty ws
 System ten pozwala na szybką naukę znaków i przetestowania nabytych umiejętności w zakresie pisma koreańskiego.
 Druga funkcjonalość zachęca do wypowiadnia podanych słów co pomaga w ich zapamiętywaniu.
 Dodatkowo aplikacja pokazuję poziom pewności, że właśnie podane słowo zostało wypowiedziane co pozwala na polepszanie swojej wymowy.
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
