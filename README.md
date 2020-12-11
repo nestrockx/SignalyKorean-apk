@@ -1,9 +1,9 @@
 # signalyKR
 ## Moja nowa aplikacja na Androida do nauki alfabetu koreańskiego i wymowy koreańskiej.  
 ![homescreen](https://github.com/nestrockx/signalyKR/blob/main/images/home.png "Homescreen")  
-Przy projektowaniu zwracałem uwagę na to, aby zaangażowanie użytkownika było jak największe.  
-Dwie z głównych funkcjonalności bazują na czynnościach esencjonalnych dla nauki języka: pisanie i mówienie.  
-Starałem się aby interakcja była jak najbardziej naturalna i wzbudzała uczucie satysfakcji,  
+### Przy projektowaniu zwracałem uwagę na to, aby zaangażowanie użytkownika było jak największe.  
+### Dwie z głównych funkcjonalności bazują na czynnościach esencjonalnych dla nauki języka: pisanie i mówienie.  
+### Starałem się aby interakcja była jak najbardziej naturalna i wzbudzała uczucie satysfakcji,  
 aby użytkownik chciał korzystać z aplikacji i osiągał pożądane efekty w nauce.  
 Aby osiągnąć mój cel zaprogramowałem system, który sprawdza czy narysowany przez użytkownika znak  
 pokrywa się ze znakiem podanym w przykładzie i zaimplementowałem kształty wszystkich znaków koreańskiego alfabetu Hangul.  
