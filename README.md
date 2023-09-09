@@ -1,16 +1,16 @@
 # signalyKR
-## Moja nowa aplikacja na Androida do nauki alfabetu koreańskiego i wymowy koreańskiej.  
+## My Android app for learning the Korean alphabet and Korean pronunciation.
 ![homescreen](https://github.com/nestrockx/signalyKR/blob/main/images/home.png "Homescreen")  
-Przy projektowaniu zwracałem uwagę na to, aby zaangażowanie użytkownika było jak największe.  
-Dwie z głównych funkcjonalności bazują na czynnościach esencjonalnych dla nauki języka: pisanie i mówienie.  
-Starałem się aby interakcja była jak najbardziej naturalna i wzbudzała uczucie satysfakcji,  
-aby użytkownik chciał korzystać z aplikacji i osiągał pożądane efekty w nauce.  
-Aby osiągnąć mój cel zaprogramowałem system, który sprawdza czy narysowany przez użytkownika znak  
-pokrywa się ze znakiem podanym w przykładzie i zaimplementowałem kształty wszystkich znaków koreańskiego alfabetu Hangul.  
+In designing it, I paid attention to make user engagement as high as possible.  
+Two of the main functionalities are based on activities essential to language learning: writing and speaking.  
+I tried to make the interaction as natural as possible and induce a feeling of satisfaction,  
+so that the user would want to use the application and achieve the desired learning results.  
+To achieve my goal, I programmed a system that checks whether the sign drawn by the user  
+coincides with the character given in the example and I implemented the shapes of all the characters of the Korean Hangul alphabet.  
 ![writecreen](https://github.com/nestrockx/signalyKR/blob/main/images/write.gif "Writescreen")  
-System ten pozwala na szybką naukę znaków i przetestowania nabytych umiejętności w zakresie pisma koreańskiego.  
-Druga funkcjonalość zachęca do wypowiadnia podanych słów co pomaga w ich zapamiętywaniu.  
-Dodatkowo, dzięki usłudze rozpoznwania mowy od Google, aplikacja pokazuję poziom pewności, że podane słowo zostało wypowiedziane poprawnie, co pozwala na polepszanie swojej wymowy.  
+This system allows you to quickly learn the characters and test your acquired Korean handwriting skills.  
+The second functionality encourages you to say the given words, which helps you remember them.  
+In addition, thanks to the speech recognition service from Google, the application shows the level of confidence that the given word was spoken correctly, allowing you to improve your pronunciation.  
 ![voicescreen](https://github.com/nestrockx/signalyKR/blob/main/images/voice.png "Voicescreen")  
 
 
