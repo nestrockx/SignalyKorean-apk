@@ -1,5 +1,8 @@
 # signalyKR
 ## My Android app for learning the Korean alphabet and Korean pronunciation.
+
+https://play.google.com/store/apps/details?id=com.onehundredtwo.testvoicy
+
 ![homescreen](https://github.com/nestrockx/signalyKR/blob/main/images/home.png "Homescreen")  
 In designing it, I paid attention to make user engagement as high as possible.  
 Two of the main functionalities are based on activities essential to language learning: writing and speaking.  
